@@ -1,0 +1,62 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# ---------------------------
+# Python
+# ---------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+*.log
+*.sqlite3
+instance/
+.env
+.env.*
+*.env
+*.db
+
+# ---------------------------
+# Virtual environments
+# ---------------------------
+venv/
+ENV/
+env/
+.venv/
+.Python
+
+# ---------------------------
+# VS Code / IDE files
+# ---------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ---------------------------
+# OS-specific files
+# ---------------------------
+.DS_Store
+Thumbs.db
+
+# ---------------------------
+# Test & Coverage
+# ---------------------------
+.coverage
+htmlcov/
+.cache/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+
+# ---------------------------
+# Deployment / Build
+# ---------------------------
+dist/
+build/
+*.egg-info/
+*.spec
+
+# ----
