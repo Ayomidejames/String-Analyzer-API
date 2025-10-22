@@ -23,16 +23,6 @@ Developed by **Ay Adefioye** as part of a backend development practice and portf
 
 string_analyzer/
 ├── app.py
-├── models.py
-├── utils.py
-├── routes/
-│ ├── init.py
-│ ├── strings.py
-│ ├── natural_filter.py
-├── tests/
-│ ├── init.py
-│ ├── test_utils.py
-│ ├── test_routes.py
 ├── requirements.txt
 ├── Procfile
 └── README.md
